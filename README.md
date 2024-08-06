@@ -6,12 +6,6 @@
 
 ---
 
-## 👋 About Me
-
-I am Michael Corry Otieno, an aspiring Software Engineer based in Nairobi, Kenya. I am passionate about problem-solving, continuous learning, and leveraging technology to create impactful solutions. Currently, I am pursuing a BSc in Computer Science at Masinde Muliro University of Science and Technology, where I have honed my skills in various programming languages, frameworks, and development methodologies.
-
----
-
 ## 🚀 Projects
 
 ### Redis Server Clone
