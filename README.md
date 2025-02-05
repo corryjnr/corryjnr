@@ -5,10 +5,6 @@
 **Portfolio:** [michaelcorry.dev](https://michaelcorry.dev)
 **LinkedIn:** [linkedin.com/in/michaelcorry1](https://www.linkedin.com/in/michaelcorry1/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=corryjnr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=corryjnr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ## 🚀 Projects
