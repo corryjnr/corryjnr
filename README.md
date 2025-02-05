@@ -1,4 +1,4 @@
-# Michael Corry Otieno
+# Michael Corry
 
 **Location:** Nairobi, Kenya  
 **Email:** [michaelcorry01@gmail.com](mailto:michaelcorry01@gmail.com)
