@@ -7,6 +7,6 @@
 
 ---
 
-Feel free to explore my [GitHub repositories](https://github.com/corryjnr) to see more of my work and contributions!
+Feel free to explore my [GitHub repositories](https://github.com/corryjnr?tab=repositories) to see more of my work and contributions!
 
 ---
