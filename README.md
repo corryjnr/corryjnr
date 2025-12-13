@@ -46,5 +46,5 @@ Tech-obsessed engineer — if it can be automated, consider it done
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=corryjnr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=corryjnr&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
