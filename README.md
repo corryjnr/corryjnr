@@ -39,7 +39,7 @@ Tech-obsessed engineer — if it can be automated, consider it done
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--corryjnr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcorry1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-corryjnr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcorry1/)
 
 ---
 
