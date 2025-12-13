@@ -39,10 +39,10 @@ Tech-obsessed engineer — if it can be automated, consider it done
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--pshenychnyy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcorry1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--corryjnr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcorry1/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pshenok&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=corryjnr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
