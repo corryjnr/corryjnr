@@ -1,5 +1,5 @@
 # Hey, I'm Michael Corry
-Tech-obsessed engineer — if it can be automated, consider it done
+Tech-obsessed engineer — let's talk systems
 
 ### Tech Stack
 
