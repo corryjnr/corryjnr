@@ -1,17 +1,17 @@
 # Hey, I'm Michael Corry 👋
 
-**Systems-focused Software Engineer** building scalable platforms, developer tools, and intelligent systems.
+Systems-focused Software Engineer building scalable platforms, developer tools, and intelligent systems.
 
-I enjoy designing **clean architectures, distributed systems, and AI-enabled products**.
-Most of my work lives at the intersection of **backend systems, developer experience, and automation.**
+I enjoy designing clean architectures, distributed systems, and AI-enabled products.
+Most of my work lives at the intersection of backend systems, developer experience, and automation.
 
 ## 🚀 What I Work On
 
-* Designing **scalable backend architectures**
-* Building **developer tooling and platforms**
-* Experimenting with **AI agents and LLM infrastructure**
-* Creating **automation systems and integrations**
-* Developing **full-stack applications** with strong system design foundations
+* Designing scalable backend architectures
+* Building developer tooling and platforms
+* Experimenting with AI agents and LLM infrastructure
+* Creating automation systems and integrations
+* Developing full-stack applications with strong system design foundations
 
 ## 🧠 Core Technologies
 
