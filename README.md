@@ -1,4 +1,4 @@
-# Hey, I'm Michael Corry 👋
+# Hi, I'm Michael Corry 👋
 
 Systems-focused Software Engineer building scalable platforms, developer tools, and intelligent systems.
 
